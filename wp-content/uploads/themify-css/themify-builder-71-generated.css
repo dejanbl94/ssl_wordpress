@@ -1,0 +1,102 @@
+/* Generated from page: podesavanje */
+.themify_builder_content-71 .tb_n9yt985.module_row{margin-top:-66px; padding-top:0px;}
+.themify_builder_content-71 .tb_8nti988.module_column{margin-top:-33px; padding-top:7px;}
+/* Builder Custom CSS START */
+body{
+       background-color:#ececec;
+}
+
+#header{
+box-shadow: 0px 0px 7px rgba(0,0,0, 0.7);
+}
+
+#main-content{
+        background-color: white;
+	box-shadow: -8px 8px 17px  -1px rgba(199,195,199,.97);
+	padding: 4vh 3vw;
+	margin: 5vw 20vw 20vw 20vw;
+}
+li{
+font-size:14px;
+font-weight:bold;
+}
+
+.photo-section{
+font-size:12px;
+text-align:center;
+padding-bottom:20px;
+padding-top:20px;
+}
+
+.photo-section img{
+width:70%;
+}
+
+.title{
+font-weight:normal;
+
+text-align:center;
+}
+
+#image{
+width:40%;
+}
+
+.comments-section{
+text-align:center;
+width:100%;
+}
+
+.reply{
+font-family: 'Gloria Hallelujah', cursive;
+padding-top:30px;
+padding-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+text-align:center;
+}
+
+@media(max-width:720px){
+#vid-1{
+width="420";
+ height="315";
+}
+#main-content{
+padding:0;
+}
+
+#text-content{
+margin:15px;
+padding-top:20px;
+}
+}
+
+
+@media(max-width:1000px){
+#vid-1{
+width="420";
+ height="315";
+}
+#main-content{
+width:100%;
+margin:0 0 50px 0;
+}
+header#header.pagewidth.clearfix
+{
+width:100%;
+max-width:100%;
+margin:0;
+padding: 10px 0 0 20px;
+}
+
+}
+
+@media(max-width:1000px){
+#header.pagewidth{
+width:100%;
+max-width:100%;
+}
+
+}
+/* Builder Custom CSS END */

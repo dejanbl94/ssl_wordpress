@@ -1,0 +1,185 @@
+/* Generated from page: home */
+.themify_builder_content-11 .tb_fv3o243.module_row{margin-top:-66px; padding-top:0px;}
+.themify_builder_content-11 .tb_vyfd248.module_column{padding-top:0px;}
+.themify_builder_content-11 .tb_179q792.module-text{padding-top:1px;}
+.themify_builder_content-11 .tb_wqvu171.module_column{padding-top:0px;}
+.themify_builder_content-11 .tb_g1l3385.module_row{margin-bottom:0px; padding-bottom:0px;}
+.themify_builder_content-11 .tb_9b6e391.module_column{padding-bottom:0px;}
+.themify_builder_content-11 .tb_mpgt719.module-text{padding-bottom:0px;}
+.themify_builder_content-11 .tb_e66g86.module_row{padding-bottom:4px;}
+.themify_builder_content-11 .tb_a7z188.module_column{padding-bottom:0px;}
+/* Builder Custom CSS START */
+*{
+color:black;
+}
+
+#headerwrap.fixed-header{
+background-color: rgb(255,255,255);
+}
+
+#footerwrap{
+padding:5px;
+}
+
+#welcome-block{
+background-image: url("/wp-content/uploads/2020/05/sean-lim-NPlv2pkYoUA-unsplash-scaled.jpg");
+background-size:cover;
+}
+
+#about-block{
+background-image: url("/wp-content/uploads/2020/05/janko-ferlic-sfL_QOnmy00-unsplash-scaled.jpg");
+}
+
+#protocol-block{
+background-image: url("/wp-content/uploads/2020/05/adi-goldstein-EUsVwEOsblE-unsplash-scaled.jpg");
+}
+
+#whyssl-block{
+background-image: url("/wp-content/uploads/2020/05/mike-kononov-lFv0V3_2H6s-unsplash-scaled.jpg");
+}
+
+#handshake-block{
+background-image: url("/wp-content/uploads/2020/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-scaled.jpg");
+}
+
+#settings-block{
+background-image:url("/wp-content/uploads/2020/05/thomas-tastet-hSODeSbvzE0-unsplash-scaled.jpg");
+}
+
+#pmf-block{
+background-image: url("/wp-content/uploads/2020/05/aaron-burden-H8s0PF2rcQs-unsplash-scaled.jpg");
+background-size:cover;
+}
+
+.centered{
+width:600px;
+margin:auto;
+background-color:#eeeeeeea;
+padding:30px;
+border-radius:8px;
+text-align:center;
+}
+
+.centered-pmf{
+width:900px;
+margin:auto;
+background-color:#eeeeeeea;
+margin-top:2%;
+margin-bottom:2%;
+border-radius:8px;
+text-align:center;
+padding:1%;
+}
+
+.parallax-block{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background-attachment:fixed;
+margin-bottom:3px;
+}
+
+h2{
+font-size:40px;
+}
+
+p{
+font-size:16px;
+}
+
+.title{
+text-align:center;
+font-size:50px;
+font-weight:bold;
+}
+
+#content{
+padding:0
+}
+.social-share-section a{
+padding:5px;
+color:white;
+font-size:20px;
+}
+
+
+.social-share-section{
+text-align:center;
+}
+
+.social-share-section p{
+display:none;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+ border-radius:7px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+   text-decoration:none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+#sub-text p{
+font-size:14px;
+}
+
+#sub-logo{
+padding-bottom:15px;
+}
+
+li#menu-item-56{font-size:15px;
+}
+li#menu-item-62{font-size:15px;
+}
+li#menu-item-63{font-size:15px;
+}
+li#menu-item-64{font-size:15px;
+}
+li#menu-item-65{font-size:15px;
+}
+
+@media(min-width:912px){
+li#menu-item-190{
+padding-left:15px;
+}
+
+}
+
+@media(max-width:685px){
+.centered{
+width:100%;
+padding-left:0;
+padding-right:0;
+}
+.centered-pmf{
+width:100%;
+padding:0;
+margin-top:450px;
+margin-bottom:50px;
+}
+
+}
+/* Builder Custom CSS END */
